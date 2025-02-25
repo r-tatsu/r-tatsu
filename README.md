@@ -7,7 +7,7 @@
 
 ### Me
 
-- Hardware Engineer
+- RTL Designer
 - ...(To be filled later)
 
 ### Interest
