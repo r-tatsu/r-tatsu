@@ -8,7 +8,7 @@
 ### Me
 
 - Hardware Engineer
-- (To be filled later)
+- ..(To be filled later)
 
 ### Interest
 
