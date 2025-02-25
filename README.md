@@ -8,7 +8,7 @@
 ### Me
 
 - Digital Design Engineer, specializing in RTL design
-- Part-time Master's student
+- Part-time Master's student (10/2024-)
 
 ### Interests
 
