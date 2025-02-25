@@ -7,8 +7,8 @@
 
 ### Me
 
-- Digital Design Engineer
-- Part-time Master's Student
+- Digital Design Engineer, specializing in RTL design
+- Part-time Master's student
 
 ### Interest
 
