@@ -10,7 +10,7 @@
 - Digital Design Engineer, specializing in RTL design
 - Part-time Master's student
 
-### Interest
+### Interests
 
-- Computer architecture
-- AI-Integrated Circuits
+- Computer Architecture
+- AI Integrated circuits
