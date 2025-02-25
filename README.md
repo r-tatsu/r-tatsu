@@ -7,8 +7,8 @@
 
 ### Me
 
-- RTL Designer
-- ...(To be filled later)
+- Digital Design Engineer
+- Part-time Master's Student
 
 ### Interest
 
