@@ -12,5 +12,5 @@
 
 ### Interests
 
-- Computer Architecture
-- AI Integrated circuits
+- Hardware verification (SystemVerilog, UVM, VIP)
+- Implementation methods of LLMs using FPGAs
