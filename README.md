@@ -1,16 +1,9 @@
 <!--## r-tatsu =-->
+I'm a Digital Design Engineer specializing in RTL design, with a passion for cutting-edge hardware development. Currently pursuing my Master's degree part-time (started October 2024) while working full-time.
 
-### GitHub Info
-
-[![GitHub status](https://github-readme-stats.vercel.app/api?username=r-tatsu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-tatsu&hide=VHDL)](https://github.com/anuraghazra/github-readme-stats)
-
-### Me
-
-- Digital Design Engineer, specializing in RTL design
-- Part-time Master's student (10/2024-)
+[![Email](https://img.shields.io/badge/Email-6c757d?style=flat&logo=gmail&logoColor=D14836)](mailto:tatsuuma-ryota-wr@ynu.jp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-tatsu/)
 
 ### Interests
-
-- Hardware verification (SystemVerilog, UVM, VIP)
+- Hardware verification using SystemVerilog, UVM, and VIP
 - Implementation methods of LLMs using FPGAs
