@@ -6,4 +6,3 @@ I'm a Digital Design Engineer specializing in RTL design, with a passion for cut
 
 ### Interests
 - Hardware verification using SystemVerilog, UVM, and VIP
-- Implementation methods of LLMs using FPGAs
